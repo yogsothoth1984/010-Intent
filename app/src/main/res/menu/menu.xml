@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Agregar"
+        android:id="@+id/Id_Agregar">
+    </item>
+    <item
+        android:title="Acerca de"
+        android:id="@+id/Id_Acerca">
+    </item>
+    <item
+        android:title="Hogar"
+        android:id="@+id/Id_hogar">
+    </item>
+</menu>
