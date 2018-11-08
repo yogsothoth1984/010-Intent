@@ -3,6 +3,6 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:minWidth="200dp"
     android:minHeight="200dp"
-    android:previewImage="@drawable/lisaann"
+    android:previewImage="@drawable/lisaann2"
     android:initialLayout="@layout/interfaz_widget">
 </appwidget-provider>
